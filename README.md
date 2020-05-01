@@ -28,6 +28,9 @@ Here, I want to show you:
 
 ## Disclaimer notes
 
-**This is NOT a piracy project**
+**Be careful with the piracy actions**
 
-> This is an experimental project to demonstrate how to scrape a web page easily, download the content of the web page, and convert part of that content into a pdf document, all using .NET Core 3.1
+> This is an experimental project to demonstrate how to scrape a web page easily, download the content of the web page, and convert part of the content into a pdf document, all using .NET Core 3.1
+
+> Remember respect the laws and the intellectual property of the websites and the content that you can find in them.
+If you hesitate with something, avoid do it.
